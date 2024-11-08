@@ -31,7 +31,7 @@ const numberOfKms = (kms) => {
         <Partie3 @numberOfKms="numberOfKms" />
       </div>
       <div class="result">
-        <h2>Le Résultat</h2>
+        <h2>👇 Le Résultat 👇</h2>
         <p>{{ result }}</p>
       </div>
     </section>
